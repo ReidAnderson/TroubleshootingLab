@@ -1,4 +1,4 @@
-# ITEC 2585 Week 3 Lab: Troubleshooting
+# Week 3 Lab: Troubleshooting
 
 ## Lab Instructions
 
