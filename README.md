@@ -22,3 +22,6 @@ I have provided a simple solution that contains two projects, the code for a cal
 The lab overall will be worth 30 points.
 
 - 30 points from answering the lab questions above
+
+
+
